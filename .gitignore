@@ -1,4 +1,5 @@
 # ignored archives
 **/Builds
 **/JuceLibraryCode
+**/.vscode
 
